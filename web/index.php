@@ -8,19 +8,19 @@
   <body>
 
     <div class="header">
-      <?php include 'header.html';?>
+      <?php include 'header.php';?>
     </div>
 
     <div class="main">
-      <?php include 'main.html';?>
+      <?php include 'main.php';?>
     </div>
 
     <div class="sidebar">
-      <?php include 'sidebar.html';?>
+      <?php include 'sidebar.php';?>
     </div>
 
     <div class="footer">
-      <?php include 'footer.html';?>
+      <?php include 'footer.php';?>
     </div>
 
   </body>
